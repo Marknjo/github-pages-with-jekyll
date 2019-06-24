@@ -1,13 +1,6 @@
 ---
-layout: post
-title:  "My First post using Jekyll!"
+title: My First Post
+date: 2019-06-24
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!  
-
-Author Mark Njoroge  
 
