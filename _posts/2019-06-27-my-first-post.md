@@ -9,6 +9,5 @@ title:  "My First post using Jekyll!"
 
 I hope you like it!  
 
-
-## Author Mark Njoroge  
+Author Mark Njoroge  
 
